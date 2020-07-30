@@ -1,2 +1,2 @@
 # Demo-lean-git
-study for git
+this is dev branch
